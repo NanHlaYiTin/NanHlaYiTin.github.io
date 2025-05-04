@@ -67,3 +67,14 @@ footer {
     background: #35424a;
     color: white;
 }
+
+/* ပရိုဖိုင်ဓာတ်ပုံအတွက် */
+.profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid var(--accent);
+    margin-bottom: 20px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+}
